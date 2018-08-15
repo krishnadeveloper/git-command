@@ -1,5 +1,5 @@
 # git command
-### Some userful commands which are used most of time
+### Some useful commands which are used most of time
 1. To create a clone from Git http(s) url
 
 `git clone https://github.com/krishnadeveloper/git-command.git`
