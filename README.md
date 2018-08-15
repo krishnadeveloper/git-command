@@ -1,2 +1,2 @@
-# git-command
-required git command to use from command line
+# git command
+# I am going to add commands which are used most of time
