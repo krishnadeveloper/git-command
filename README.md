@@ -16,7 +16,7 @@ git pish origin master
 ```
 git add -A
 git commit -m "You comment"
-git pish origin master
+git push origin master
 ```
 
 4. Pull or fetch all changes from master origin to your system git directory
