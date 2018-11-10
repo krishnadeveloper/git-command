@@ -26,3 +26,11 @@ git fetch
 git merge
 git pull
 ```
+5. If you have created another branch and want to use that branch 
+`````
+git clone your_git_repository_url
+git checkout -b your_branch_name
+git add - A
+git commit -m “Your comment”
+git push origin your_branch_name
+`````
